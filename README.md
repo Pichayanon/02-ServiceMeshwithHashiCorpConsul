@@ -1,8 +1,5 @@
 # 02-Service Mesh with HashiCorp Consul
-
-> **Student ID:** 6510545624 
-
-> **Name:** Pichayanon Toojinda
+## 6510545624  Pichayanon Toojinda
 
 This project demonstrates setting up a Kubernetes-based multi-cloud environment using HashiCorp Consul as a service mesh for secure service-to-service communication, cross-cluster federation, and automatic failover.
 
